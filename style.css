@@ -141,10 +141,14 @@ input[type='number'] {
 
 .list li.plus {
   border-right: 5px solid #2ecc71;
+  word-spacing: 2em;
 }
+
+
 
 .list li.minus {
   border-right: 5px solid #c0392b;
+  word-spacing: 2em;
 }
 
 .delete-btn {
